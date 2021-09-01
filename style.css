@@ -1,0 +1,196 @@
+*{
+   
+    box-sizing: border-box;
+    font-family: helvetica;
+
+}
+
+
+.header{
+ 
+    background-color: blue;
+    width: 100%;
+    height: 100vh; 
+    background-image: url(img/header.jfif); 
+
+   
+}
+
+.caja1{
+ 
+
+    height: 100%;
+    
+
+
+
+    
+}
+
+.caja2{
+    height: 100%;
+}
+
+.propaganda{
+    width: 100%;
+    background-color: crimson;
+    height: 50vh;
+    background-image: url(img/banner.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.foto1{
+   
+    width: 100%;
+    height: 40vh;
+    
+}
+.foto2{
+    
+    width: 100%;
+    height: 40vh;
+}
+.foto3{
+ 
+    width: 100%;
+    height: 40vh;
+}
+.foto4{
+ 
+    width: 100%;
+    height: 40vh;
+}
+
+.foto5{
+ 
+    width: 100%;
+    height: 40vh;
+}
+.foto6{
+   
+    width: 100%;
+    height: 40vh;
+}
+.foto7{
+   
+    width: 100%;
+    height: 40vh;
+}
+.foto8{
+  
+    width: 100%;
+    height:30vh;
+}
+
+footer{
+   
+    width: 100%;
+    height: 70vh;
+}
+
+.formulario{
+
+    
+}
+
+footer{
+    background-image: url(img/footer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    background-color: rgba(255, 255, 255, 0);
+   
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+}
+
+
+
+a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+ul{
+    text-decoration: none;
+    
+}
+
+li{
+
+    text-decoration: none;
+}
+
+.mimenu{
+    
+    padding: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+ul li a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    background-color: #0d6efd;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: center;
+}
+
+.elcentro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mibotella{
+    display: flex;
+    justify-content: end;
+}
+
+footer{
+    margin-top: 30px;
+}
+
+.navbar-toggler-icon{
+    background-image: url(img/hambur.png);
+}
+
+.card-body{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+.ingredientes{
+    padding-left: 7rem;
+}
+
+.trago{
+    margin-bottom: 5%;
+}
+
+.video{
+    background-color: rgb(41, 41, 177);
+    margin-bottom: 8%;
+    
+}
